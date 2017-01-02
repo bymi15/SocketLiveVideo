@@ -1,0 +1,25 @@
+{
+  "name": "socketlivevideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bymi15/SocketLiveVideo.git"
+  },
+  "author": "Brian Min",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bymi15/SocketLiveVideo/issues"
+  },
+  "homepage": "https://github.com/bymi15/SocketLiveVideo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "socket.io": "^1.7.2",
+    "webrtc.io": "0.0.4"
+  }
+}
